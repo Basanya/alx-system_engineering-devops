@@ -1,5 +1,2 @@
-
-
 #!/bin/bash
-export School="Best"
-^c
+export BEST="School"
