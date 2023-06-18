@@ -9,4 +9,4 @@ exec { 'ngix-conf':
 -> exec { 'nginx-restart':
   command => 'nginx restart',
   path    => '/etc/init.d/'
-}}
+}
